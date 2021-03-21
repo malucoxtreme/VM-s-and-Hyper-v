@@ -1,0 +1,18 @@
+in this time we will create a VM with the VHD file
+
+First of all, make sure that you have installed all of depedencies of hyper-v, and your MotherBoard have the virtualization featur
+
+typing 'windows+r' and then 'Virtmgmt.msc' to open hyper-v manager
+in action menu by the right side you must see the 'new' option
+new>Vitual machine> 
+in specify generation you must choose 'generation 1' to MBR partition and lagacy boot 
+or 'generation 2' to GPT partition and UEFI boot( in this point, in case of UEFI boot you must to convert the .vhd file in .vhdx.
+and i will assume that you primary .tib file is a image of an MBR partition boot case, so if not i will make a another documentation for
+how to convert the .vhd file)
+specify generation>assign memory in there you must choose how much memory you want assign, i recomend 2048mb for win10
+network>i think you dont will need, but if you need it google it! hahaha
+conect virtual harddisk> using a exist virtual drive: find him! and next
+next and finish!
+
+time to start your VM > in most cases win10 will adapt by himself and initiate, in some we will make some adjust. 
+

@@ -1,0 +1,11 @@
+--------------------------------------------------------------------------------------------------------------
+
+PARA FAZER O FIREFOX PARAR DE EMITIR A JANELA DE IMPRESSÃO E IMPRIMIR DIRETAMENTE BASTA FAZER O SEGUINTE:
+
+    na barra de endereços digite about:config e pressione enter
+
+    Dê um clique direito sobre a tela branca e clique em New > Boolean
+
+    Crie uma nova string chamada print.always_print_silent e a defina como True .
+
+-------------------------------------------------------------------------------------

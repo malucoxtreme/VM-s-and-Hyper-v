@@ -6,3 +6,6 @@ https://www.badcaps.net/forum completa registação
 https://vinafix.com
 https://pt.scribd.com
 http://teknisi-indonesia.com
+
+O melhor de todas
+https://smd.db-x7.ru/
